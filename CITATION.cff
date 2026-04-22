@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Molhi
+  given-names: Majed
+title: "SMS Spam Detection Using PSO-Based Feature Selection with Naive Bayes and Logistic Regression Classifiers"
+version: v1.0.0
+doi: 10.5281/zenodo.19698281
+date-released: 2026-04-22
+url: "https://github.com/majedmolhi/SMS-Spam-Detection-PSO"
