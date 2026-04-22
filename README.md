@@ -63,30 +63,11 @@ SMS-Spam-Detection-PSO/
 │
 ├── README.md
 ├── requirements.txt
-├── notebook/
-│   └── spam_detection.ipynb
-└── figures/
-    ├── Fig1_class_distribution.png
-    ├── Fig2_avg_length.png
-    ├── Fig3_smote.png
-    ├── Fig_pso_convergence.png
-    ├── Fig_feature_reduction.png
-    ├── Fig_performance_comparison.png
-    └── Fig_confusion_matrices.png
+└─ notebook/
+    └── spam_detection.ipynb
+
 ```
 
----
-
-## Technologies
-
-| Library          | Purpose                              |
-|------------------|--------------------------------------|
-| Python 3.10      | Programming language                 |
-| Scikit-learn     | TF-IDF, classifiers, metrics         |
-| NLTK             | Stopwords removal and stemming       |
-| Imbalanced-learn | SMOTE implementation                 |
-| NumPy / Pandas   | Data processing                      |
-| Matplotlib / Seaborn | Visualization                   |
 
 ---
 
