@@ -96,4 +96,4 @@ jupyter notebook notebook/spam_detection.ipynb
 ## Citation
 
 If you use this work, please cite:  
-DOI: *Add Zenodo DOI here after publishing*
+DOI: *[Zenodo DOI](https://doi.org/10.5281/zenodo.19698281)*
